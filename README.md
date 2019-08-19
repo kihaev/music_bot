@@ -1,1 +1,1 @@
-# music_bot
+# Send artist or song name to this bot!
